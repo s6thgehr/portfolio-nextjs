@@ -16,6 +16,13 @@ const Projects = () => {
         </p>
         <h2 className="py-4">What I&apos;ve Built</h2>
         <h3 className="py-4">Coming Soon!</h3>
+        <h5 className="py-4">A little foretaste</h5>
+        <ul>
+          <li>Wind drone</li>
+          <li>Paranoia - Party Game</li>
+          <li>The Lord of the Rings Quiz</li>
+          <li>Reinforcement Learning in Economics Course</li>
+        </ul>
         {/* <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
             title="Property Finder"
