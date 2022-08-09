@@ -140,6 +140,7 @@ const resume = () => {
           <p className="py-1 italic mb-2">Issued July 22, 2022</p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://coursera.org/share/a11d09385ecd3d5ae4509658347f80c8"
             className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
           >
@@ -157,6 +158,7 @@ const resume = () => {
           <p className="py-1 italic mb-2">Issued June 4, 2022</p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://freecodecamp.org/certification/s6thgehr/javascript-algorithms-and-data-structures"
             className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
           >
@@ -174,6 +176,7 @@ const resume = () => {
           <p className="py-1 italic mb-2">Issued April 22, 2020</p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://coursera.org/share/7b60156bda542cf5880a42169f7ae236"
             className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
           >
@@ -190,6 +193,7 @@ const resume = () => {
           <p className="py-1 italic mb-2">Issued March 23, 2018</p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://coursera.org/share/4da2f60c647f3652c2ce559a192478b8"
             className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
           >
@@ -206,6 +210,7 @@ const resume = () => {
           <p className="py-1 italic mb-2">Issued October 10, 2017</p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://coursera.org/share/1494aeb3d17bde3332cd80efbb5fc0cd"
             className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
           >
