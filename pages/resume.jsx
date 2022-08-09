@@ -126,6 +126,92 @@ const resume = () => {
           <p className="py-1 italic">(10/2009 - 09/2013)</p>
           <p className="py-1 ">Final Score: 1.7 (good)</p>
         </div>
+
+        {/* ------------------------- Certificates ------------------------- */}
+        <h5 className="text-center underline text-[18px] py-4">Certificates</h5>
+        {/* Certificate */}
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">
+              Decentralized Finance (DeFi): The Future of Finance
+            </span>
+            <span className="px-2">|</span>Duke University on Coursera
+          </p>
+          <p className="py-1 italic mb-2">Issued July 22, 2022</p>
+          <a
+            target="_blank"
+            href="https://coursera.org/share/a11d09385ecd3d5ae4509658347f80c8"
+            className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
+          >
+            Certificate
+          </a>
+        </div>
+        {/* Certificate */}
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">
+              JavaScripts Algorithms and Data Structures
+            </span>
+            <span className="px-2">|</span>FreeCodeCamp
+          </p>
+          <p className="py-1 italic mb-2">Issued June 4, 2022</p>
+          <a
+            target="_blank"
+            href="https://freecodecamp.org/certification/s6thgehr/javascript-algorithms-and-data-structures"
+            className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
+          >
+            Certificate
+          </a>
+        </div>
+
+        {/* Certificate */}
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">Reinforcement Learning</span>
+            <span className="px-2">|</span>University of Alberta and Alberta
+            Machine Intelligence Institute on Coursera
+          </p>
+          <p className="py-1 italic mb-2">Issued April 22, 2020</p>
+          <a
+            target="_blank"
+            href="https://coursera.org/share/7b60156bda542cf5880a42169f7ae236"
+            className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
+          >
+            Certificate
+          </a>
+        </div>
+
+        {/* Certificate */}
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">Deep Learning</span>
+            <span className="px-2">|</span>DeepLearning.AI on Coursera
+          </p>
+          <p className="py-1 italic mb-2">Issued March 23, 2018</p>
+          <a
+            target="_blank"
+            href="https://coursera.org/share/4da2f60c647f3652c2ce559a192478b8"
+            className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
+          >
+            Certificate
+          </a>
+        </div>
+
+        {/* Certificate */}
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">Machine Learning</span>
+            <span className="px-2">|</span>Stanford University on Coursera
+          </p>
+          <p className="py-1 italic mb-2">Issued October 10, 2017</p>
+          <a
+            target="_blank"
+            href="https://coursera.org/share/1494aeb3d17bde3332cd80efbb5fc0cd"
+            className="py-2 px-2 rounded-md bg-[#d43defbb] text-gray-200"
+          >
+            Certificate
+          </a>
+        </div>
       </div>
     </>
   );
