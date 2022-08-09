@@ -13,9 +13,12 @@ const Main = () => {
             LET&#39;S BUILD SOMETHING TOGETHER
           </p>
           <h1 className="py-4 text-gray-700">
-            Hi, I&#39;m <span className="text-[#5651e5]"> Thomas</span>
+            Hi, I&#39;m <span className="text-[#d43def]"> Thomas</span>
           </h1>
-          <h1 className="py-2 text-gray-700">A Software Developer</h1>
+          <h1 className="py-2 text-gray-700">
+            Physicist and Economist by Training
+          </h1>
+          <h1 className="py-2 text-gray-700">Software Developer by Passion</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
             I’m focused on building and learning cool stuff.
           </p>
