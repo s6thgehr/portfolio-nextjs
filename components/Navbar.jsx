@@ -80,7 +80,7 @@ const Navbar = () => {
             <li className="ml-10 text-sm uppercase hover:border-b">
               <Link href="/#projects">Projects</Link>
             </li>
-            <li className="ml-10 text-sm uppercase hover:border-b">
+            <li className="ml-10 text-sm uppercase hover:border-b mr-4">
               <Link href="/resume">Resume</Link>
             </li>
             {/* <li className='ml-10 text-sm uppercase hover:border-b'>
@@ -91,7 +91,7 @@ const Navbar = () => {
           <div
             style={{ color: `${linkColor}` }}
             onClick={handleNav}
-            className="md:hidden"
+            className="md:hidden mr-4"
           >
             <AiOutlineMenu size={25} />
           </div>
@@ -172,7 +172,7 @@ const Navbar = () => {
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                 <a
-                  href="https://www.linkedin.com/in/clint-briley-50056920a/"
+                  href="https://www.linkedin.com/in/thomas-gehrmann-36a05a145/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -181,7 +181,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="https://github.com/fireclint"
+                  href="https://github.com/s6thgehr"
                   target="_blank"
                   rel="noreferrer"
                 >
