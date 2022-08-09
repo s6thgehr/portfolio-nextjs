@@ -17,7 +17,7 @@ const About = () => {
           </p>
           <p className="py-2 text-gray-600">
             I have always been deeply curious by nature and I enjoy the
-            challenge of solving complex problems. That's why I was very
+            challenge of solving complex problems. That&#39;s why I was very
             interested in physics. Physics is an incredibly diverse field where
             we study and discover extraordinary phenomena from quantum physics
             to astrophysics that seem out of this world.
