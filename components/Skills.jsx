@@ -1,5 +1,5 @@
 import React from "react";
-import Skill from "./Skill.jsx";
+import SkillItem from "./SkillItem.jsx";
 import Javascript from "../public/assets/skills/javascript.png";
 import ReactImg from "../public/assets/skills/react.png";
 import Tailwind from "../public/assets/skills/tailwind.png";
@@ -22,18 +22,18 @@ const Skills = () => {
         </p>
         <h2 className="py-4">What I Can Do</h2>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
-          <Skill logo={Python} name="Python" />
-          <Skill logo={Pytorch} name="PyTorch" />
-          <Skill logo={Dart} name="Dart" />
-          <Skill logo={Flutter} name="Flutter" />
-          <Skill logo={Javascript} name="JavaScript" />
-          <Skill logo={ReactImg} name="React" />
-          <Skill logo={NextJS} name="Next.js" />
-          <Skill logo={Tailwind} name="Tailwind" />
-          <Skill logo={Node} name="Node.js" />
-          <Skill logo={Rust} name="Rust" />
-          <Skill logo={Solidity} name="Solidity" />
-          <Skill logo={Github} name="GitHub" />
+          <SkillItem logo={Python} name="Python" />
+          <SkillItem logo={Pytorch} name="PyTorch" />
+          <SkillItem logo={Dart} name="Dart" />
+          <SkillItem logo={Flutter} name="Flutter" />
+          <SkillItem logo={Javascript} name="JavaScript" />
+          <SkillItem logo={ReactImg} name="React" />
+          <SkillItem logo={NextJS} name="Next.js" />
+          <SkillItem logo={Tailwind} name="Tailwind" />
+          <SkillItem logo={Node} name="Node.js" />
+          <SkillItem logo={Rust} name="Rust" />
+          <SkillItem logo={Solidity} name="Solidity" />
+          <SkillItem logo={Github} name="GitHub" />
         </div>
       </div>
     </div>

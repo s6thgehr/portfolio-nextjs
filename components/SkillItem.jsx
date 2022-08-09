@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-const Skill = ({ logo, name }) => {
+const SkillItem = ({ logo, name }) => {
   return (
     <>
       <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -18,4 +18,4 @@ const Skill = ({ logo, name }) => {
   );
 };
 
-export default Skill;
+export default SkillItem;

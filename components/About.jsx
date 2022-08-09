@@ -25,15 +25,15 @@ const About = () => {
           <p className="py-2 text-gray-600">
             During my physics studies I learned programming in C. I was
             fascinated how a few lines on a simple text file could solve
-            complicated problems. I fell in love with programming. I started to
-            learn Java and C++ and for my master thesis I build a wind drone and
+            complicated problems. I fell in love with programming and started to
+            learn Java and C++. For my master thesis I build a wind drone and
             programmed an autopilot for it.
           </p>
           <p className="py-2 text-gray-600">
             After my physics studies I worked as a research associate at the
             chair of Computational Economics. Machine learning and AI has caught
             my interest there. I applied modern reinforcement learning
-            algorithms to economics decision problems under uncertainty using
+            algorithms to economic decision problems under uncertainty using
             Python.
           </p>
           <p className="py-2 text-gray-600">
