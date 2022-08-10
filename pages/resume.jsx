@@ -86,7 +86,7 @@ const resume = () => {
             <span className="font-bold italic">
               Master of Science Financial Engineering
             </span>
-            <span className="px-2">|</span>WorldQuant Quant University
+            <span className="px-2">|</span>WorldQuant University
           </p>
           <p className="py-1 italic">(07/2020 - Current)</p>
           <p className="py-1 ">Current Score: 92%</p>
